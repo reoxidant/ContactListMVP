@@ -1,2 +1,2 @@
 # ContactListMVP
-The project using MVP architecture, Unit tests, and User Interface tests
+The project using MVP architecture, Unit tests and User Interface tests
